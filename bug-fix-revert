@@ -1,0 +1,35 @@
+tanishkambhore@Tanishks-MacBook-Air simple-interest-calculator % curl -s https://api.github.com/repos/tanishkambhore/simple-interest-calculator/pulls
+[
+  {
+    "url": "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/1",
+    "id": 123456789,
+    "node_id": "PR_kwDONG123A4AB",
+    "number": 1,
+    "state": "closed",
+    "title": "Fix typo in README.md",
+    "user": {
+      "login": "tanishkambhore",
+      "html_url": "https://github.com/tanishkambhore"
+    },
+    "head": {
+      "label": "tanishkambhore:bug-fix-typo",
+      "ref": "bug-fix-typo",
+      "repo": {
+        "id": 987654321,
+        "name": "simple-interest-calculator",
+        "full_name": "tanishkambhore/simple-interest-calculator",
+        "html_url": "https://github.com/tanishkambhore/simple-interest-calculator"
+      }
+    },
+    "base": {
+      "label": "ibm-developer-skills-network:main",
+      "ref": "main",
+      "repo": {
+        "id": 123456789,
+        "name": "mcino-Introduction-to-Git-and-GitHub",
+        "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+        "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+      }
+    }
+  }
+]
