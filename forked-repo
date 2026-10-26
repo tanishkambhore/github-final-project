@@ -1,0 +1,15 @@
+curl -s https://api.github.com/repos/tanishkambhore/simple-interest-calculator
+{
+  "name": "simple-interest-calculator",
+  "full_name": "tanishkambhore/simple-interest-calculator",
+  "html_url": "https://github.com/tanishkambhore/simple-interest-calculator",
+  "fork": true,
+  "source": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  },
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
