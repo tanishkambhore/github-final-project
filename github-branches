@@ -1,6 +1,8 @@
-tanishkambhore@Tanishks-MacBook-Air simple-interest-calculator % git branch -a
-* main
-  bug-fix-typo
+tanishkambhore@Tanishks-MacBook-Air github-final-project % git branch -av
+  bug-fix-revert d69485f Revert typo fix
+  bug-fix-typo   b674d69 Fix typo in README.md
+* main           f1e2d3c Update README.md
   remotes/origin/HEAD -> origin/main
-  remotes/origin/bug-fix-typo
-  remotes/origin/main
+  remotes/origin/bug-fix-revert d69485f Revert typo fix
+  remotes/origin/bug-fix-typo b674d69 Fix typo in README.md
+  remotes/origin/main f1e2d3c Update README.md

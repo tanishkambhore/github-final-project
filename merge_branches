@@ -1,0 +1,9 @@
+tanishkambhore@Tanishks-MacBook-Air github-final-project % git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+tanishkambhore@Tanishks-MacBook-Air github-final-project % git merge bug-fix-typo
+Updating b674d69..f1e2d3c
+Fast-forward
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
